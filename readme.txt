@@ -2,8 +2,8 @@
 Contributors: http://profiles.wordpress.org/shutterbrandon
 Tags: Soundcloud, oEmbed
 Requires at least: 3.3
-Tested up to: 3.5.1
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,6 @@ Copy and paste a soundcloud URL where you want the player to show up.
 
 == Changelog ==
 
-2.0 Fixed Whitespace
+2.0 Fixed Whitespace 
 
 1.0 Creation
