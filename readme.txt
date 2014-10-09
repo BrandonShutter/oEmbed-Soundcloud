@@ -31,4 +31,6 @@ Copy and paste a soundcloud URL where you want the player to show up.
 
 == Changelog ==
 
+2.0 Fixed Whitespace
+
 1.0 Creation
