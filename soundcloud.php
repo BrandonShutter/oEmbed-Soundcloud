@@ -3,7 +3,7 @@
 Plugin Name: Soundcloud oEmbed
 Plugin URI: http://www.brandonshutter.com
 Description: Enables the ability to paste a SoundCloud URL in it's own line and for oEmbed to make it play.
-Version: 2.0
+Version: 3.0
 Author: Brandon Shutter
 Author URI: http://www.brandonshutter.com
 */
